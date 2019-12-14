@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "exercicio8_9_10.Teste",
+            "projectName": "Exercicios-heranca"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Funcionario",
+            "request": "launch",
+            "mainClass": "appExercicio6.Funcionario",
+            "projectName": "Exercicios-heranca"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "appExercicio5.Main",
+            "projectName": "Exercicios-heranca"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "appExercicio1.Main",
+            "projectName": "Exercicios-heranca"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "appexercicio1.Main",
+            "projectName": "Exercicios-heranca"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "app.Main",
+            "projectName": "Exercicios-heranca"
+        }
+    ]
+}
